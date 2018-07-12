@@ -1,0 +1,52 @@
+
+---------------------------------------------------------
+Apertura realizada:0
+Fichero:/sfctrl/tmp/anusvr.trc
+Fichero:/sfctrl/tmp/anusvr.trc
+Hora: 07:38:31
+
+Comprobacion del estado del Centro
+Nombre del tlog a tratar: datos:tlog08.dat
+Comprobacion del estado Centro correcta
+
+anusvr: Comienzo creaccion de pipa
+anusvr: Correcta  creacion de pipa[00000000]
+anusvr: Se ha creado pipa R
+anusvr:Se ha recibido mensaje en pipa R
+anusvr: Lectura de mensaje
+anusvr: Retorno de lectura[0000002E]
+anusvr: Mensaje copiado
+anusvr: TIPO de mensaje 1
+
+TRATAR PETICION
+
+Comprobacion del estado del Centro
+Nombre del tlog a tratar: datos:tlog08.dat
+Comprobacion del estado Centro correcta
+
+Busqueda Operación Anulada
+Operacion [604-6903] NO ANULADA
+
+Busqueda Operacion 
+
+Comprobacion del estado del Centro
+Nombre del tlog a tratar: datos:tlog08.dat
+Comprobacion del estado Centro correcta
+
+Operacion [604-6903] encontrada
+Operacion [604-6903] encontrada
+---------------------------------------
+Offset 131
+Tipo XTN 1
+Funcion 1
+Importe 595
+Flags 0
+Tam. primera lectura 780
+Num. lecturas 1
+T. respuesta: 0
+T. resp. pipa: 0
+---------------------------------------
+
+Respuesta a pipa S
+Ruta  696FU604
+Error de escritura [FFFFFFE9] en pipa
